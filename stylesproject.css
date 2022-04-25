@@ -114,9 +114,6 @@ p {
   height: 100%;
 }
 
-.left-container {
-  min-width: 375px;
-}
 .enlarged-image{
   display: flex;
   justify-content: center;
